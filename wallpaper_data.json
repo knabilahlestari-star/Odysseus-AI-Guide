@@ -1,0 +1,12 @@
+[
+  {
+    "id": "wp_001",
+    "category": "Nature",
+    "image_url": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0?w=1080"
+  },
+  {
+    "id": "wp_002",
+    "category": "Abstract",
+    "image_url": "https://images.unsplash.com/photo-1557683316-973673baf926?w=1080"
+  }
+]
