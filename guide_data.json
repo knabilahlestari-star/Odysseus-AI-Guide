@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "title": "Panduan Pemula",
+    "description": "Langkah dasar yang wajib diketahui.",
+    "content": "Tulis isi panduan lengkap Anda di sini. Anda bisa menggunakan teks panjang."
+  },
+  {
+    "id": 2,
+    "title": "Trik Cepat Lanjut",
+    "description": "Cara efektif mempercepat proses.",
+    "content": "Tulis detail trik atau langkah-langkah lanjutan di bagian ini."
+  }
+]
